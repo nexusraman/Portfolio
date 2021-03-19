@@ -1,0 +1,15 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/Pages/Resume/Resume.js":
+/*!************************************!*\
+  !*** ./src/Pages/Resume/Resume.js ***!
+  \************************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\Users\\raman\\Desktop\\Portfolio\\resume\\src\\Pages\\Resume\\Resume.js: Unexpected token (85:12)\n\n\u001b[0m \u001b[90m 83 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mdiv\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m'service'\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 84 |\u001b[39m                 \u001b[33m<\u001b[39m\u001b[33mIcon\u001b[39m className\u001b[33m=\u001b[39m\u001b[32m'service_icon>'\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 85 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 86 |\u001b[39m     ))}\u001b[0m\n\u001b[0m \u001b[90m 87 |\u001b[39m \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mGrid\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 88 |\u001b[39m \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mGrid\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n    at _temp._raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:776:17)\n    at _temp.raiseWithData (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:769:17)\n    at _temp.raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:737:17)\n    at _temp.unexpected (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:9668:16)\n    at _temp.jsxParseIdentifier (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:4947:12)\n    at _temp.jsxParseNamespacedName (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:4957:23)\n    at _temp.jsxParseAttribute (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5042:22)\n    at _temp.jsxParseOpeningElementAfterName (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5063:28)\n    at _temp.jsxParseOpeningElementAt (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5056:17)\n    at _temp.jsxParseElementAt (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5088:33)");
+
+/***/ })
+
+})
+//# sourceMappingURL=main.0df0cf2d3e50a82ef220.hot-update.js.map

@@ -1,0 +1,15 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/util/resumeData.js":
+/*!********************************!*\
+  !*** ./src/util/resumeData.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\Users\\raman\\Desktop\\Portfolio\\resume\\src\\util\\resumeData.js: Unexpected token, expected \",\" (88:16)\n\n\u001b[0m \u001b[90m 86 |\u001b[39m                 \u001b[32m\"ReactJS\"\u001b[39m\u001b[33m,\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 87 |\u001b[39m                 \u001b[32m\"JavaScript\"\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 88 |\u001b[39m                 \u001b[32m\"BootStrap\"\u001b[39m\u001b[33m,\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 89 |\u001b[39m                 \u001b[32m\"Material UI\"\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 90 |\u001b[39m             ]\u001b[0m\n\u001b[0m \u001b[90m 91 |\u001b[39m         }\u001b[0m\n    at _temp._raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:776:17)\n    at _temp.raiseWithData (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:769:17)\n    at _temp.raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:737:17)\n    at _temp.unexpected (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:9668:16)\n    at _temp.expect (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:9654:28)\n    at _temp.parseExprList (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:11751:14)\n    at _temp.parseArrayLike (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:11655:26)\n    at _temp.parseArrayLike (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:3353:26)\n    at _temp.parseExprAtom (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:10965:23)\n    at _temp.parseExprAtom (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5174:20)");
+
+/***/ })
+
+})
+//# sourceMappingURL=main.dbdb0cdac5be707b2a5b.hot-update.js.map

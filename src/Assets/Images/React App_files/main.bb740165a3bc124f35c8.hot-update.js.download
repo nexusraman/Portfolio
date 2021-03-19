@@ -1,0 +1,15 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/Pages/Resume/Resume.js":
+/*!************************************!*\
+  !*** ./src/Pages/Resume/Resume.js ***!
+  \************************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\Users\\raman\\Desktop\\Portfolio\\resume\\src\\Pages\\Resume\\Resume.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (85:0)\n\n\u001b[0m \u001b[90m 83 |\u001b[39m     ))}\u001b[0m\n\u001b[0m \u001b[90m 84 |\u001b[39m \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mGrid\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 85 |\u001b[39m \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mGrid\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 86 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mGrid\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 87 |\u001b[39m             {\u001b[90m/* skills */\u001b[39m}\u001b[0m\n\u001b[0m \u001b[90m 88 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mGrid\u001b[39m container className\u001b[33m=\u001b[39m\u001b[32m'section'\u001b[39m\u001b[33m>\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mGrid\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n    at _temp._raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:776:17)\n    at _temp.raiseWithData (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:769:17)\n    at _temp.raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:737:17)\n    at _temp.jsxParseElementAt (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5152:18)\n    at _temp.jsxParseElement (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5162:17)\n    at _temp.parseExprAtom (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5169:19)\n    at _temp.parseExprSubscripts (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:10637:23)\n    at _temp.parseUpdate (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:10617:21)\n    at _temp.parseMaybeUnary (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:10595:23)\n    at _temp.parseExprOps (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:10456:23)");
+
+/***/ })
+
+})
+//# sourceMappingURL=main.bb740165a3bc124f35c8.hot-update.js.map

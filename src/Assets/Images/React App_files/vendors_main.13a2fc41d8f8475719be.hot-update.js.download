@@ -1,0 +1,13 @@
+webpackHotUpdate("vendors~main",{
+
+/***/ "./node_modules/@material-ui/icons/Facebook.js":
+false,
+
+/***/ "./node_modules/@material-ui/icons/GitHub.js":
+false,
+
+/***/ "./node_modules/@material-ui/icons/LinkedIn.js":
+false
+
+})
+//# sourceMappingURL=vendors~main.13a2fc41d8f8475719be.hot-update.js.map

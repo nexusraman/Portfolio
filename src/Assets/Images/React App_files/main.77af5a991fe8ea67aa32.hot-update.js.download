@@ -1,0 +1,21 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Pages/Resume/Resume.css":
+false,
+
+/***/ "./src/Pages/Resume/Resume.css":
+false,
+
+/***/ "./src/Pages/Resume/Resume.js":
+/*!************************************!*\
+  !*** ./src/Pages/Resume/Resume.js ***!
+  \************************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\Users\\raman\\Desktop\\Portfolio\\resume\\src\\Pages\\Resume\\Resume.js: Unexpected token (80:12)\n\n\u001b[0m \u001b[90m 78 |\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 79 |\u001b[39m \u001b[33m<\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 80 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mGrid\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m             \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 81 |\u001b[39m             {\u001b[90m/* skills */\u001b[39m}\u001b[0m\n\u001b[0m \u001b[90m 82 |\u001b[39m             \u001b[33m<\u001b[39m\u001b[33mGrid\u001b[39m container className\u001b[33m=\u001b[39m\u001b[32m'section'\u001b[39m\u001b[33m>\u001b[39m\u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mGrid\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 83 |\u001b[39m             {\u001b[90m/* contact */\u001b[39m}\u001b[0m\n    at _temp._raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:776:17)\n    at _temp.raiseWithData (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:769:17)\n    at _temp.raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:737:17)\n    at _temp.unexpected (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:9668:16)\n    at _temp.jsxParseIdentifier (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:4947:12)\n    at _temp.jsxParseNamespacedName (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:4957:23)\n    at _temp.jsxParseElementName (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:4968:21)\n    at _temp.jsxParseOpeningElementAt (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5055:22)\n    at _temp.jsxParseElementAt (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5088:33)\n    at _temp.jsxParseElementAt (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5104:32)");
+
+/***/ })
+
+})
+//# sourceMappingURL=main.77af5a991fe8ea67aa32.hot-update.js.map

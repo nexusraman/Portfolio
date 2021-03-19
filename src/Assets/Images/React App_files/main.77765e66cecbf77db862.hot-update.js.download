@@ -1,0 +1,193 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/util/resumeData.js":
+/*!********************************!*\
+  !*** ./src/util/resumeData.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _material_ui_icons_Facebook__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @material-ui/icons/Facebook */ "./node_modules/@material-ui/icons/Facebook.js");
+/* harmony import */ var _material_ui_icons_Facebook__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Facebook__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _material_ui_icons_LinkedIn__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @material-ui/icons/LinkedIn */ "./node_modules/@material-ui/icons/LinkedIn.js");
+/* harmony import */ var _material_ui_icons_LinkedIn__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_LinkedIn__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _material_ui_icons_GitHub__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/icons/GitHub */ "./node_modules/@material-ui/icons/GitHub.js");
+/* harmony import */ var _material_ui_icons_GitHub__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_GitHub__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+var _jsxFileName = "C:\\Users\\raman\\Desktop\\Portfolio\\resume\\src\\util\\resumeData.js";
+
+
+
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  name: 'Ramandeep Singh',
+  title: 'Full Stack Developer',
+  birthday: 'April 6th, 1996',
+  email: 'ramandeep.9333@gmail.com',
+  socials: {
+    Facebook: {
+      link: 'https://www.facebook.com',
+      text: 'Facebook',
+      icon: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__["jsxDEV"])(_material_ui_icons_Facebook__WEBPACK_IMPORTED_MODULE_1___default.a, {}, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 16,
+        columnNumber: 19
+      }, undefined)
+    },
+    LinkedIn: {
+      link: 'https://www.facebook.com',
+      text: 'LinkedIn',
+      icon: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__["jsxDEV"])(_material_ui_icons_LinkedIn__WEBPACK_IMPORTED_MODULE_2___default.a, {}, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 21,
+        columnNumber: 19
+      }, undefined)
+    },
+    GitHub: {
+      link: 'https://www.facebook.com',
+      text: 'GitHub',
+      icon: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__["jsxDEV"])(_material_ui_icons_GitHub__WEBPACK_IMPORTED_MODULE_3___default.a, {}, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 26,
+        columnNumber: 19
+      }, undefined)
+    }
+  },
+  about: 'An adaptable, innovative and highly skilled Full Stack Developer with a wide range of experiences across multiple frameworks and languages utilized to develop enterprise-level web applications, web services and microservices. \n\n Experienced in architecting, developing and maintaining software deliveries using NodeJS, Java, C#, PHP and front-end development using Vanilla.Js, React, HTML, CSS, JQuery, Pug and EJs.',
+  experiences: [{
+    title: 'Customer Fulfillment Associate - Walmart',
+    date: 'October 2019-Present',
+    description: 'Demonstrating flexibility in completing and adjusting to work assignments based on customer requests and meeting daily delivery schedules. Correctly documenting and labeling all orders correctly through interpretation and understanding documents including pick slips, packaging details, labels, etc.'
+  }, {
+    title: 'Customer Service Associate - Amazon',
+    date: 'August 2017- April 2018',
+    description: 'Managed and worked with a team of professionals to maintain a positive and high-performance culture. Worked with clients and customers from United States, United Kingdom, and India.'
+  }],
+  education: [{
+    title: 'Computer Applications Development - Conestoga College',
+    date: 'September 2020 - Present',
+    description: 'Design, input, extract, format, and report information from a database and Analyze and design an information system in an object-oriented environment.'
+  }, {
+    title: 'Software and Information System Testing - Fanshawe College',
+    date: 'September 2019 - April 2020',
+    description: 'Develop test cases to verify system functionality and individual components of the system architecture. Test, verify, and evaluate procedures to assess software quality and improve software performance.'
+  }, {
+    title: 'Bachelor of Science in Information technology - Guru Nanak Dev University',
+    date: 'June 2014 - June 2017',
+    description: 'Apply knowledge of computing requirements and mathematics for technology solutions in business applications. Design and use spreadsheets and database applications for business processes and tracking. Develop an ability to communicate effectively with a range of audiences.'
+  }],
+  services: [{
+    title: 'Web Developer',
+    description: 'I have been a web developer from past 5 years.',
+    icon: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__["jsxDEV"])(WebOutLined, {}, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 68,
+      columnNumber: 18
+    }, undefined)
+  }, {
+    title: 'Google Analytics',
+    description: '',
+    icon: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__["jsxDEV"])(WebOutLined, {}, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 73,
+      columnNumber: 18
+    }, undefined)
+  }, {
+    title: 'Web Developer',
+    description: 'I have been a web developer from past 5 years.',
+    icon: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_4__["jsxDEV"])(WebOutLined, {}, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 78,
+      columnNumber: 18
+    }, undefined)
+  }]
+});
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ })
+
+})
+//# sourceMappingURL=main.77765e66cecbf77db862.hot-update.js.map

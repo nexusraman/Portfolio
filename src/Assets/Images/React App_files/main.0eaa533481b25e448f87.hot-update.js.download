@@ -1,0 +1,15 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/util/resumeData.js":
+/*!********************************!*\
+  !*** ./src/util/resumeData.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\Users\\raman\\Desktop\\Portfolio\\resume\\src\\util\\resumeData.js: Unterminated string constant (95:16)\n\n\u001b[0m \u001b[90m 93 |\u001b[39m             title\u001b[33m:\u001b[39m\u001b[32m\"BACK-END\"\u001b[39m\u001b[33m,\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 94 |\u001b[39m             description\u001b[33m:\u001b[39m[\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 95 |\u001b[39m                 \u001b[32m\"NodeJS,\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m                 \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 96 |\u001b[39m             ]\u001b[0m\n\u001b[0m \u001b[90m 97 |\u001b[39m         }\u001b[0m\n\u001b[0m \u001b[90m 98 |\u001b[39m     ]\u001b[0m\n    at _temp._raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:776:17)\n    at _temp.raiseWithData (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:769:17)\n    at _temp.raise (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:737:17)\n    at _temp.readString (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:9067:20)\n    at _temp.getTokenFromCode (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:8705:14)\n    at _temp.getTokenFromCode (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:5206:18)\n    at _temp.getTokenFromCode (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:3273:22)\n    at _temp.nextToken (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:8232:12)\n    at _temp.next (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:8162:10)\n    at _temp.parseArrayLike (C:\\Users\\raman\\Desktop\\Portfolio\\resume\\node_modules\\@babel\\parser\\lib\\index.js:11654:10)");
+
+/***/ })
+
+})
+//# sourceMappingURL=main.0eaa533481b25e448f87.hot-update.js.map
