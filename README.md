@@ -16,20 +16,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started:
 
-To run 
+1. To clone: Enter git clone https://github.com/nexusraman/Portfolio.git
+2. Type npm install to install the npm dependencies.
+3. to start the development environment, Enter npm start 
 
 
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `npm run build`
 
