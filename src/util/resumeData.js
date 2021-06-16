@@ -37,18 +37,18 @@ const resumeData = {
         {
             title: 'Research Assistant - Software Developer',
             date: 'May 2021- Present',
-            description: '♦ Actively contributed to understanding user stories and translating to application development framework and improving User Experience. \n ♦ Acted as the Project coordinator and collaborated with client and other stakeholders. \n ♦ Developing a full stack responsive web application with multi-tenant architecture for users to view real-time and historical data of sensors via API. \n ♦ Worked with BeagleBoard to design a system that can collect data from the field'
+            description: '✦ Actively contributed to understanding user stories and translating to application development framework and improving User Experience. \n ✦ Acted as the Project coordinator and collaborated with client and other stakeholders. \n ✦ Developing a full stack responsive web application with multi-tenant architecture for users to view real-time and historical data of sensors via API. \n ✦ Worked with BeagleBoard to design a system that can collect data from the field'
         },
         {
             title: 'Customer Fulfillment Associate - Walmart',
             date: 'October 2019-Present',
-            description: '♦ Demonstrating flexibility in completing and adjusting to work assignments based on customer requests and meeting daily delivery schedules.\n ♦  Correctly documenting and labeling all orders correctly through interpretation and understanding documents including pick slips, packaging details, labels, etc.'
+            description: '✦ Demonstrating flexibility in completing and adjusting to work assignments based on customer requests and meeting daily delivery schedules.\n ✦  Correctly documenting and labeling all orders correctly through interpretation and understanding documents including pick slips, packaging details, labels, etc.'
 
         },
         {
             title: 'Customer Service Associate - Amazon',
             date: 'August 2017- April 2018',
-            description: '♦ Managed and worked with a team of professionals to maintain a positive and high-performance culture.\n♦  Worked with clients and customers from United States, United Kingdom, and India.'
+            description: '✦ Managed and worked with a team of professionals to maintain a positive and high-performance culture.\n✦  Worked with clients and customers from United States, United Kingdom, and India.'
         }
     ],
 
@@ -56,17 +56,17 @@ const resumeData = {
         {
             title: 'Computer Applications Development - Conestoga College',
             date: 'September 2020 - Present',
-            description: '♦ Design, input, extract, format, and report information from a database and Analyze and design an information system in an object-oriented environment.'
+            description: '✦ Design, input, extract, format, and report information from a database and Analyze and design an information system in an object-oriented environment.'
         },
         {
             title: 'Software and Information System Testing - Fanshawe College',
             date: 'September 2019 - April 2020',
-            description: '♦ Develop test cases to verify system functionality and individual components of the system architecture. \n♦ Test, verify, and evaluate procedures to assess software quality and improve software performance.'
+            description: '✦ Develop test cases to verify system functionality and individual components of the system architecture. \n✦ Test, verify, and evaluate procedures to assess software quality and improve software performance.'
         },
         {
             title: 'Bachelor of Science in Information technology - Guru Nanak Dev University',
             date: 'June 2014 - June 2017',
-            description: '♦ Apply knowledge of computing requirements and mathematics for technology solutions in business applications.\n♦ Design and use spreadsheets and database applications for business processes and tracking. \n♦ Develop an ability to communicate effectively with a range of audiences.'
+            description: '✦ Apply knowledge of computing requirements and mathematics for technology solutions in business applications.\n✦ Design and use spreadsheets and database applications for business processes and tracking. \n✦ Develop an ability to communicate effectively with a range of audiences.'
 
         },
     ],
