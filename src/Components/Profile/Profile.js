@@ -10,14 +10,13 @@ import TimelineItem from '@material-ui/lab/TimelineItem';
 import TimelineContent from '@material-ui/lab/TimelineContent';
 import GetAppIcon from '@material-ui/icons/GetApp';
 import myResume from '../../Assets/Resume.docx';
-import { KeyboardTab } from '@material-ui/icons';
 
 
 const CustomTimelineItem = ({ title, text, link }) => (
     <TimelineItem>
         <CustomTimelineSeparator />
         <TimelineContent className='timeline_content'>
-            {link ? (<Typography className='timelineItem_text'><span>{title}: </span><a href='{link}' target='blank'>{text}</a></Typography>) : (
+            {link ? (<Typography className='timelineItem_text'><span>{title}: </span><a href={link} target={link}>{text}</a></Typography>) : (
                 <Typography className='timelineItem_text'>
                     <span>{title}: </span>{text}
                 </Typography>)

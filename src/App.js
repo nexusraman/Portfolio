@@ -21,14 +21,12 @@ function App() {
             <Header />
             <div class='main-content container_shadow'>
               <Switch>
-                <Route path='/contact'>
-                  <Contact />
-               
+                <Route path='/portfolio'>
+                  <Portfolio />   </Route>
                 <Route path='/'>
                   <Resume /> </Route>
-                <Route path='/portfolio'>
-                  <Portfolio />
-                </Route>
+                <Route path='/contact'>
+                  <Contact />
                 </Route>
               </Switch>
             </div>

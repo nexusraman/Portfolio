@@ -24,6 +24,7 @@
   color: gray;
   font-size: small;
   margin-top: 6px;
+  white-space: pre-line;
 }
 
 /* Services */
